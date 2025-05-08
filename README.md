@@ -32,6 +32,17 @@ Custom WordPress theme for a used car dealership. Built from scratch with custom
 3. Install ACF plugin
 4. Create car posts and news posts
 5. Set featured images and custom fields
+## Development Environment
+
+This WordPress project was developed using [LocalWP](https://localwp.com/), 
+a local development tool that uses Docker containers under the hood for WordPress, PHP, Nginx, and MySQL services.
+
+No additional docker-compose setup is required.
+
+To test the project:
+- Install LocalWP
+- Import the project
+- Start the AutoTheme site
 
 ## Demo Content
 
