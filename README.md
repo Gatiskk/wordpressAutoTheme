@@ -32,6 +32,3 @@ Custom WordPress theme for a used car dealership. Built from scratch with custom
 3. Install ACF plugin
 4. Create car posts and news posts
 5. Set featured images and custom fields
-
-## Author
-Your Name  
