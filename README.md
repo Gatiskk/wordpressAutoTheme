@@ -20,7 +20,9 @@ Custom WordPress theme for a used car dealership. Built from scratch with custom
 - `/header.php` — site header + menu
 - `/footer.php` — site footer
 - `/index.php` — car listing homepage
-- `/single.php` — single car page
+- `/single-car.php` — single car page
+- `/single-post.php` — single post page
+- `/home-news.php` — news page
 - `/style.css` — main theme styles
 - `/functions.php` — theme setup, custom post type, menu
 
