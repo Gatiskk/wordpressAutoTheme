@@ -1,4 +1,4 @@
-# AutoTheme — WordPress Custom Car Dealership Theme
+# AutoTheme
 
 ## Description
 Custom WordPress theme for a used car dealership. Built from scratch with custom post types, ACF fields, and custom styling.
