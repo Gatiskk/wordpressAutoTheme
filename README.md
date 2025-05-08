@@ -32,3 +32,13 @@ Custom WordPress theme for a used car dealership. Built from scratch with custom
 3. Install ACF plugin
 4. Create car posts and news posts
 5. Set featured images and custom fields
+
+## Demo Content
+
+You can import demo easily:
+
+1. Go to WordPress Dashboard > Tools > Import
+2. Install the "WordPress Importer" plugin if asked
+3. Upload the file `AllContentExport.xml`
+4. Assign posts to your current user
+5. Done!
